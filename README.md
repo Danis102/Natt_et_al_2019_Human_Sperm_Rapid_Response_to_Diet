@@ -2,4 +2,4 @@
 
 The content of this repository is licensed under cc-by-4.0.
 
-This repository will be updated upon publiscation.
+This repository will be updated upon publication.
